@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ProductsRetrofit</string>
+    <string name="title">Title</string>
+    <string name="price">Price</string>
+    <string name="brand">Brand</string>
+    <string name="description">Description</string>
+    <string name="rating">Rating</string>
+    <string name="btn_next"><![CDATA[>]]></string>
+    <string name="button_prev"><![CDATA[<]]></string>
+    <string name="btn_allProduct">Get All Product</string>
+    <string name="btn_favorite">Get Favorite Product</string>
+    <string name="btn_exit">Exit</string>
+    <string name="btn_favourit">Favourit</string>
+    <string name="btn_deleteFav">Delete</string>
+</resources>
